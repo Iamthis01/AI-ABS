@@ -1,2 +1,1 @@
-# Ticket-Lifecycle-Intake-Through-Resolution
-osTicket - Ticket Lifecycle: Intake Through Resolution
+AI Labs and projects 
